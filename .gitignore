@@ -8,3 +8,5 @@ metals.*
 .vscode
 project
 target
+data
+*.pth
